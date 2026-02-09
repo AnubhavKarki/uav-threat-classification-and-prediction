@@ -99,8 +99,8 @@ The UAV Threat Classification system provides a full-stack simulation of drone o
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/AnubhavKarki/uat-threat-classification-and-prediction>
-cd <uav-threat-classification-and-prediction>
+git clone https://github.com/AnubhavKarki/uat-threat-classification-and-prediction
+cd uav-threat-classification-and-prediction
 ```
 
 2. Install dependencies (Python 3.10+ recommended):
